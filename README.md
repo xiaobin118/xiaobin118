@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="HI THERE, I am xiaobin118" width="100%" />
-
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=39C5BB&center=true&vCenter=true&width=780&separator=%3B&lines=Hi%2C+I%27m+Gugugaga+(xiaobin118).%3BI+rebuild+things+from+scratch+to+learn+how+they+work.%3BC%2B%2B+%2F+Python+%2F+TypeScript+%2F+Java%3Bnow%3A+ML+experiments%2C+Spring+Boot+backend%2C+Neovim+configs" alt="Typing SVG" /></a>
 
 <br/>
