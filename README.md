@@ -12,16 +12,6 @@
 
 </div>
 
-## ~ whoami
-
-> 计算机专业本科生，哈尔滨。学完 CSAPP 和数据结构之后，我发现最有效的学习方式是把东西**从零重建一遍**：
-> 不调库，自己写矩阵乘法和梯度下降；不用脚手架，自己配 CMake 和 Neovim。
-> 所以这里的仓库大多不是"用了什么"，而是"拆开看过什么"。
-
-- 🔨 **现在**：机器学习课程实验（纯 NumPy 手写 k-means / GMM-EM / MLP）、Spring Boot + MyBatis Plus 后端、Neovim 与 Rust 小工具
-- 📚 **底子**：CSAPP、数据结构与算法、SQL（从建表到事务）、Redis（缓存与降级）
-- 🧪 **习惯**：每个实验都配一份讲义 + 一份报告，里面的数字全部来自实际运行，不写回忆值
-- 🌱 **正在学**：Rust、Lua（Neovim 生态）
 
 ## ~ stack
 
@@ -63,20 +53,11 @@
 ## ~ projects
 
 | repo | 是什么 | 技术 |
-| :-- | :-- | :-- |
 | [HIT_ML_Lab](https://github.com/xiaobin118/HIT_ML_Lab) | 机器学习课程实验：多项式/逻辑回归、k-means、GMM-EM、MLP 全部 NumPy 手写，另含 PyTorch CNN 与 DCGAN/VAE/DDPM | Python · NumPy · PyTorch |
 | [windows-which-key](https://github.com/xiaobin118/windows-which-key) | 按住修饰键即列出当前应用可用快捷键的 Windows 桌面小工具 | Rust |
 | [lilly-blog](https://github.com/xiaobin118/lilly-blog) | 基于 Astro 的静态博客，上面那些讲义与复盘都发在这儿 | Astro |
-| own-data-structure-practice 🔒 | 数据结构从零手写练习（私有仓库） | C |
 | [miku.nvim](https://github.com/xiaobin118/miku.nvim) | 写给 Miku 爱好者的 Neovim 配色 | Lua |
 | [self-blog](https://github.com/xiaobin118/self-blog) | 自建动态博客，静态站的上游 | TypeScript |
-
-## ~ now
-
-- [x] 实验一～三：多项式拟合、逻辑回归、k-means + GMM-EM，全部手写并与报告数字对齐
-- [ ] 把 `gmm.py` 里剩下的空壳函数自己填完，替换掉报告中的参考实现
-- [ ] 给 windows-which-key 补上配置导入/导出
-- [ ] 实验四～六的讲义整理成可复用的笔记
 
 <div align="center">
 <br/>
