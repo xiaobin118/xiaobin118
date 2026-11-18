@@ -48,13 +48,6 @@
   </picture>
 </p>
 
-## projects
-
-| repo | 是什么 | 技术 |
-| [windows-which-key](https://github.com/xiaobin118/windows-which-key) | 按住修饰键即列出当前应用可用快捷键的 Windows 桌面小工具 | Rust |
-| [lilly-blog](https://github.com/xiaobin118/lilly-blog) | 基于 Astro 的静态博客，上面那些讲义与复盘都发在这儿 | Astro |
-| [miku.nvim](https://github.com/xiaobin118/miku.nvim) | 写给 Miku 爱好者的 Neovim 配色 | Lua |
-| [self-blog](https://github.com/xiaobin118/self-blog) | 自建动态博客，静态站的上游 | TypeScript |
 
 <div align="center">
 <br/>
