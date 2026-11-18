@@ -13,7 +13,7 @@
 </div>
 
 
-## ~ stack
+## stack
 
 <p align="center">
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,py,java,spring,mysql,redis,ts,react,cmake,git,linux,pytorch,latex,vscode" alt="Main stack" /></a>
@@ -23,7 +23,7 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim,rust,lua,astro,vue,bash,docker,md" alt="Also using" /></a>
 </p>
 
-## ~ stats
+## stats
 
 <p align="center">
   <picture>
@@ -50,10 +50,9 @@
   </picture>
 </p>
 
-## ~ projects
+## projects
 
 | repo | 是什么 | 技术 |
-| [HIT_ML_Lab](https://github.com/xiaobin118/HIT_ML_Lab) | 机器学习课程实验：多项式/逻辑回归、k-means、GMM-EM、MLP 全部 NumPy 手写，另含 PyTorch CNN 与 DCGAN/VAE/DDPM | Python · NumPy · PyTorch |
 | [windows-which-key](https://github.com/xiaobin118/windows-which-key) | 按住修饰键即列出当前应用可用快捷键的 Windows 桌面小工具 | Rust |
 | [lilly-blog](https://github.com/xiaobin118/lilly-blog) | 基于 Astro 的静态博客，上面那些讲义与复盘都发在这儿 | Astro |
 | [miku.nvim](https://github.com/xiaobin118/miku.nvim) | 写给 Miku 爱好者的 Neovim 配色 | Lua |
@@ -65,10 +64,3 @@
 <sub>from scratch, always.</sub>
 
 </div>
-
-<!--
-可选增强（详见 SETUP.md 第 6 节）：
-1. 贪吃蛇贡献图：启用 workflows/snake.yml 后，把下面这行的注释去掉
-   <img src="https://raw.githubusercontent.com/xiaobin118/xiaobin118/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-2. WakaTime 编码统计：建好账号、配好 secret 后，在 SETUP.md 第 6.2 节把那 6 行粘到「## ~ now」上面
--->
